@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Juan Antonio López. I'm on my last year of computer science civil engineering at Universidad Austral de Chile and I'm looking for a job right now. 
+My name is Juan Antonio López. I'm on my last semester of computer science civil engineering at Universidad Austral de Chile and I'm looking for a job right now. 
 
 I really hope i can help you with something or maybe you can help me! Please don't hesitate and contact me if you need anything. Here is a little more about my current studies and work:
 
