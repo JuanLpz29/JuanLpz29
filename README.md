@@ -1,10 +1,16 @@
 ### Hi there 👋
-My name is Juan Antonio López. I'm on my last semester of computer science civil engineering at Universidad Austral de Chile and I'm looking for a job right now. 
+I'm Juan Antonio López, a Computer Science and Engineering graduate from Universidad Austral de Chile. I'm passionate about creating meaningful solutions through software, and currently looking for opportunities to grow as a developer and contribute to impactful projects.
 
-I really hope i can help you with something or maybe you can help me! Please don't hesitate and contact me if you need anything. Here is a little more about my current studies and work:
+Here’s a bit more about me:
 
-- 🔭 I did my thesis work on a progressive web application built with ReactJS and nodeJS.
-- 🌱 I’m currently learning JS, HTML, CSS, among other tools and languages.
-- 👯 I’m looking to collaborate with other developers for further dev works. I would like to learn about data science with Power BI and Power Pivot aswell.
-- 📫 How to reach me: Add me on Linkedin https://www.linkedin.com/in/juanlpzm/ or just send me an e-mail to juanlpz29@outlook.com
-- ⚡ Fun fact: I wanted to do this section in two languages (also spanish) but i think english fits better here by itself.
+🎓 I recently finished my degree and developed a full Progressive Web App as my thesis using ReactJS, NodeJS, and PostgreSQL.
+
+💻 I'm especially interested in software development, data science, digital transformation, and project management.
+
+🌱 Currently exploring topics like Power BI, SQL, and advanced JavaScript frameworks.
+
+🤝 Always open to collaborating with other developers or learning from new challenges.
+
+📫 Reach me via LinkedIn https://www.linkedin.com/in/juanlpzm/ or send me an e-mail to juanlpz29@outlook.com
+
+⚡ Fun fact: I almost wrote this in Spanish too — but hey, let's keep it global 🌍
